@@ -1,4 +1,4 @@
-Nostalgia RustSpring keyboard sound
+Nostalgia RustSpring keyboard sound (WAYLAND SUPPORT : SOON)
 =====================================
 
 Copyright 2016 Ico Doornekamp
