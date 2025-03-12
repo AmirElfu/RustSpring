@@ -1,4 +1,4 @@
-Nostalgia bucklespring keyboard sound
+Nostalgia RustSpring keyboard sound
 =====================================
 
 Copyright 2016 Ico Doornekamp
@@ -10,16 +10,11 @@ annoying the hell out of my coworkers.
 ![Model M](img/model-m.jpg)
 ![Buckle](img/buckle.gif)
 
-Bucklespring runs as a background process and plays back the sound of each key
+RustSpring runs as a background process and plays back the sound of each key
 pressed and released on your keyboard, just as if you were using an IBM
 Model-M. The sound of each key has carefully been sampled, and is played back
 while simulating the proper distance and direction for a realistic 3D sound
 palette of pure nostalgic bliss.
-
-To temporarily silence bucklespring, for example to enter secrets, press
-ScrollLock twice (but be aware that those ScrollLock events _are_ delivered to
-the application); same to unmute. The keycode for muting can be changed with
-the `-m` option. Use keycode 0 to disable the mute function.
 
 Installation
 ------------
