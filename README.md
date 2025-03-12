@@ -55,7 +55,7 @@ $ ./target/release/rustspring
 ```
 
 The default Linux build requires X11 for grabbing events. If you want to use
-Bucklespring on the linux console or Wayland display server, you can SHOULD WAIT.
+Bucklespring on the linux console or Wayland display server, you SHOULD WAIT.
 
 ### MacOS
 
