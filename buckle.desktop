@@ -1,9 +1,9 @@
 [Desktop Entry]
 
 Type=Application
-Name=Buckle
-Comment=Bucklespring keyboard sound
-Exec=buckle -f
+Name=RustSpring
+Comment=Rustspring keyboard sound
+Exec=rustspring -f
 Icon=input-keyboard
 StartupNotify=false
 Terminal=false
