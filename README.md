@@ -31,7 +31,7 @@ $ sudo apt install ./PATH/OF/RUSTSPRING.deb
 ### Linux, building from source
 
 To compile on debian-based linux distributions, first make sure the require
-libraries and header files are installed, then simply run `make`:
+libraries and header files are installed, then simply run `cargo build --release`:
 
 #### Dependencies on Debian/Ubuntu
 ```
